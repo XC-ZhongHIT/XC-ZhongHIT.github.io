@@ -1,9 +1,9 @@
 ---
-title: "Talk at Suzhou"
+title: "2021-2022 China Biomedical Engineering Conference and Medical Innovation Summi"
 collection: talks
 type: "Talk"
 date: 2023-12-03
-location: "San Francisco, California"
+location: "Suzhou, China"
 ---
 
 This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
