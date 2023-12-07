@@ -21,12 +21,23 @@ Education
 <p style="text-align:left;">**Harbin Institute of Technology**<span style="float:right;">**Aug. 2016 - Sep. 2020**</span></p>
 <p style="text-align:left;">B.S. in Measurement and Control Technology and Instruments<span style="float:right;">Harbin, China</span></p>
 
-Publications
+Honors and Awards
 ----
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* <p style="text-align:left;">**Excellent Student Title** - Harbin Institute of Technology<span 2. style="float:right;">Oct. 2023</span></p>
+* <p style="text-align:left;">**The Second Prize** - The 18th National Graduate Electronic Design Competition in China <span style="float:right;">Aug. 2023</span></p>
+* <p style="text-align:left;">**Young Excellent Paper** - China Biomedical Engineering Coference and Medical Innovation Summit <span style="float:right;">May. 2023</span></p>
+* <p style="text-align:left;">**Excellent Cases of Research Instruments** - China Association for Science and Technology (CAST)<span style="float:right;">Mar. 2023</span></p>
+* <p style="text-align:left;">**The Second Prize** - The 10th National College Student Photonics Design Competition in China<span style="float:right;">Aug. 2022</span></p>
+* <p style="text-align:left;">**Outstanding Graduate Title and Outstanding Master’s Thesis** - Harbin Institute of Technology<span style="float:right;">Jun. 2022</span></p>
+* <p style="text-align:left;">**National Scholarship** - Ministry of Education of China<span style="float:right;">Oct. 2021</span></p>
+* <p style="text-align:left;">**The First-Class Academic Scholarship** - Harbin Institute of Technology<span style="float:right;">Sep. 2021</span></p>
+* <p style="text-align:left;">**The Second Prize** - The 16th National Graduate Electronic Design Competition in China<span style="float:right;">Aug. 2021</span></p>
+
+
+
+
+
+
+
+
 
