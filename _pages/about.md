@@ -23,8 +23,8 @@ Education
 
 Honors and Awards
 ----
-* <p style="text-align:left;">Excellent Student Title - Harbin Institute of Technology<span 2. style="float:right;">Oct. 2023</span></p>
-* <p style="text-align:left;">The Second Prize - The 18th National Graduate Electronic Design Competition in China <span style="float:right;">Aug. 2023</span></p>
+* <p style="text-align:left;">Excellent Student Title - Harbin Institute of Technology<span style="float:right;">Oct. 2023</span></p>
+* <p style="text-align:left;">The Second Prize - The 18th National Graduate Electronic Design Competition in China<span style="float:right;">Aug. 2023</span></p>
 * <p style="text-align:left;">Young Excellent Paper - China Biomedical Engineering Coference and Medical Innovation Summit <span style="float:right;">May. 2023</span></p>
 * <p style="text-align:left;">Excellent Cases of Research Instruments - China Association for Science and Technology (CAST)<span style="float:right;">Mar. 2023</span></p>
 * <p style="text-align:left;">The Second Prize - The 10th National College Student Photonics Design Competition in China<span style="float:right;">Aug. 2022</span></p>
@@ -32,6 +32,12 @@ Honors and Awards
 * <p style="text-align:left;">National Scholarship - Ministry of Education of China<span style="float:right;">Oct. 2021</span></p>
 * <p style="text-align:left;">The First-Class Academic Scholarship - Harbin Institute of Technology<span style="float:right;">Sep. 2021</span></p>
 * <p style="text-align:left;">The Second Prize - The 16th National Graduate Electronic Design Competition in China<span style="float:right;">Aug. 2021</span></p>
+
+Correspondence
+---
+Email: zhongxiaocong@hit.edu.cn
+Laboratory: Office 30035-9, Dianji Building, Harbin Institute of Technology, HIT
+Address: 92 Xidazhi Street, Nangang District, Harbin City, Heilongjiang Province, 15001, China
 
 
 
