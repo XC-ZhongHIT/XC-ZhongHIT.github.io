@@ -1,20 +1,20 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+This is a description of a teaching experience. You can use markdown like any other post.
 
-Headings are cool
+Heading 1
 ======
 
-You can have many headings
+Heading 2
 ======
 
-Aren't headings cool?
-------
+Heading 3
+======
