@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ---
-I'm a Ph.D. student from [School of Instrumentation Science and Engneering](http://ise.hit.edu.cn/), [Harbin Institute of Technology](http://www.hit.edu.cn/). I received the B.S. degree in Measurement and Control Technology and Instruments and M.Sc. in Instrument Science and Technology from Harbin Institute of Technology, China, in 2020 and 2022, respectively. My research interests involve the Brain-Computer Interface, Biomedical Signals Processing and Control, Rehabilitation Engneering, and Transfer Learning. You can find my CV here: [Xiao-Cong Zhong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I'm a Ph.D. student from School of Instrumentation Science and Engneering, Harbin Institute of Technology. I received the B.S. degree in Measurement and Control Technology and Instruments and M.Sc. in Instrument Science and Technology from Harbin Institute of Technology, China, in 2020 and 2022, respectively. My research interests involve the Brain-Computer Interface, Biomedical Signals Processing and Control, Rehabilitation Engneering, and Transfer Learning. You can find my CV here: [Xiao-Cong Zhong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 
 Education
