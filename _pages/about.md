@@ -13,7 +13,6 @@ I'm a Ph.D. student from School of Instrumentation Science and Engneering, Harbi
 
 ## Education
 ----
-<bar style="line-height:0.25em">
 <p style="text-align:left;">Harbin Institute of Technology<span style="float:right;">Sep. 2022 - Present</span></p>
 <p style="text-align:left;">Ph.D. student in Instrument Science and Technology<span style="float:right;">Harbin, China</span></p>
 <p style="text-align:left;">Harbin Institute of Technology<span style="float:right;">Sep. 2020 - Sep. 2022</span></p>
@@ -35,7 +34,7 @@ I'm a Ph.D. student from School of Instrumentation Science and Engneering, Harbi
 * **The Second Prize**, The 16th National Graduate Electronic Design Competition in China, Aug. 2021.
 
 
-# Correspondence
+## Correspondence
 ---
 **Email:** zhongxiaocong@hit.edu.cn\
 **Laboratory:** Office 30035-9, Dianji Building, Harbin Institute of Technology, HIT\
