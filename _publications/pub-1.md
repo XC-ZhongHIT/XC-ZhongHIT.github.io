@@ -1,4 +1,3 @@
-This paper is about the number 1.
 ---
 title: "Paper 1"
 collection: publications
