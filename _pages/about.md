@@ -11,20 +11,18 @@ redirect_from:
 I'm a Ph.D. student from School of Instrumentation Science and Engneering, Harbin Institute of Technology. I received the B.S. degree in Measurement and Control Technology and Instruments and M.Sc. in Instrument Science and Technology from Harbin Institute of Technology, China, in 2020 and 2022, respectively. My research interests involve the Brain-Computer Interface, Biomedical Signals Processing and Control, Rehabilitation Robotics, and Transfer Learning. You can find my CV here: [Xiao-Cong Zhong's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 
-# Education
+## Education
 ----
-<bar style="line-height:0.2em">
+<bar style="line-height:0.25em">
 <p style="text-align:left;">Harbin Institute of Technology<span style="float:right;">Sep. 2022 - Present</span></p>
 <p style="text-align:left;">Ph.D. student in Instrument Science and Technology<span style="float:right;">Harbin, China</span></p>
-<bar style="line-height:0.2em">
 <p style="text-align:left;">Harbin Institute of Technology<span style="float:right;">Sep. 2020 - Sep. 2022</span></p>
 <p style="text-align:left;">M.Sc. in Instrument Science and Technology<span style="float:right;">Harbin, China</span></p>
-<bar style="line-height:0.2em">
 <p style="text-align:left;">Harbin Institute of Technology<span style="float:right;">Aug. 2016 - Sep. 2020</span></p>
 <p style="text-align:left;">B.S. in Measurement and Control Technology and Instruments<span style="float:right;">Harbin, China</span></p>
 
 
-# Honors and Awards
+## Honors and Awards
 ----
 * **Excellent Student Title**, Harbin Institute of Technology, Oct. 2023.
 * **The Second Prize**, The 18th National Graduate Electronic Design Competition in China, Aug. 2023.
