@@ -1,3 +1,8 @@
+---
+title: "Publications"
+permalink: /new-page/
+---
+
 ## Journal Articles
 
 1. Smith, J., Johnson, A. (2020). *Title of Article One*. Journal of Science, 10(2), 123-145. [PDF](link-to-pdf) [DOI](link-to-doi)
