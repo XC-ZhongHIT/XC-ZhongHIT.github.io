@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "XC Zhong/Homepage"
+title                    : "XC Zhong Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
