@@ -35,9 +35,9 @@ Honors and Awards
 
 Correspondence
 ---
-Email: zhongxiaocong@hit.edu.cn
-Laboratory: Office 30035-9, Dianji Building, Harbin Institute of Technology, HIT
-Address: 92 Xidazhi Street, Nangang District, Harbin City, Heilongjiang Province, 15001, China
+**Email:** zhongxiaocong@hit.edu.cn\
+**Laboratory:** Office 30035-9, Dianji Building, Harbin Institute of Technology, HIT\
+**Address:** 92 Xidazhi Street, Nangang District, Harbin City, Heilongjiang Province, 15001, China\
 
 
 
