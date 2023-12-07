@@ -1,6 +1,6 @@
 ---
-layout: redirect
+layout: archive
 title: "Publications"
-permalink: /redirect-page/
-author_profile: /new-page/
+permalink: /publications/
+author_profile: true
 ---
