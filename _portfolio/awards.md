@@ -1,10 +1,10 @@
 ---
 permalink: /portfolio/
-title: "Honors and Awards"
+title: "Awards"
 author_profile: true
 redirect_from: 
-  - /honors/
-  - /honors.html
+  - /awards/
+  - /awards.html
 ---
 
 * **Excellent Student Title**, Harbin Institute of Technology, Oct. 2023.
