@@ -3,8 +3,8 @@ permalink: /posts/
 title: "Chinese patents"
 author_profile: true
 redirect_from: 
-  - /posts/
-  - /posts.html
+  - /post/
+  - /post.html
 ---
 
 [1] **Xiao-Cong Zhong**, Qisong Wang, Dan Liu, et al. "sEMG signal Detection and Cross-individual Hand Gesture Recognition Using Easy Transfer Learning". At 2021-2022 China Biomedical Engineering Conference and Medical Innovation Summit, Online, 10-12 April, 2022. 
