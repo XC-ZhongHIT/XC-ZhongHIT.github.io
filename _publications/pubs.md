@@ -9,9 +9,9 @@ author_profile: true
 [2] **Xiao-Cong Zhong**, Qisong Wang, Dan Liu, et al. EEG-DG: A Multi-Source Domain Generalization Framework for Motor Imagery EEG Classification[J]. *arXiv preprint arXiv*:2311.05415, 2023. [PDF](/files/paper2.pdf) (Under Review)
 
 ## Coference Proceedings
-[3] **Xiao-Cong Zhong**, Qisong Wang, Dan Liu, et al. sEMG signal Detection and cross-individual gesture recognition using easy transfer learning. *2021-2022 China Biomedical Engineering Conference and Medical Innovation Summit*, 2022.
+[1] **Xiao-Cong Zhong**, Qisong Wang, Dan Liu, et al. sEMG signal Detection and cross-individual gesture recognition using easy transfer learning. *2021-2022 China Biomedical Engineering Conference and Medical Innovation Summit*, 2022.
 
-[4] **Xiao-Cong Zhong**, Qisong Wang, Dan Liu, et al. A feature fusion method for EEG-sEMG signals based on GA-SVM. *2023 China Biomedical Engineering Conference and Medical Innovation Summit*, 2023.
+[2] **Xiao-Cong Zhong**, Qisong Wang, Dan Liu, et al. A feature fusion method for EEG-sEMG signals based on GA-SVM. *2023 China Biomedical Engineering Conference and Medical Innovation Summit*, 2023.
 
 ## Patents
 [1] **Zhong Xiaocong**, Wang Qisong, Liu Dan, et al. Rehabilitation training system for hand function recovery in hemiplegic patients[P]. Heilongjiang Province: CN116942467A, July 11, 2023.
