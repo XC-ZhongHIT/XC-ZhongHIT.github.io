@@ -3,8 +3,8 @@ permalink: /publications/
 title: "Journals and Coferences"
 author_profile: true
 redirect_from: 
-  - /pubs/
-  - /pubs.html
+  - /pubssadfasfas/
+  - /pubcxzczxcxzs.html
 ---
 
 [1] **Xiao-Cong Zhong**, Qisong Wang, Dan Liu, et al. A deep domain adaptation framework with correlation alignment for EEG-based motor imagery classification[J]. *Computers in Biology and Medicine*, 2023, 163: 107235. [PDF](/files/paper1.pdf)
