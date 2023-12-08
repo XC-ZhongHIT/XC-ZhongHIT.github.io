@@ -13,5 +13,5 @@ author_profile: true
 [3] Wang Qisong, Liu Dan, **Zhong Xiao-Cong**, et al. Full-cycle upper limb rehabilitation training device for poststroke patients[P]. Heilongjiang Province: CN116869777A, July 25, 2023.  
 [4] Wang Qisong, Liu Dan, **Zhong Xiao-Cong**, et al. Hand gesture recognition method for sEMG signals based on dynamic threshold and EasyTL[P]. Heilongjiang Province: CN114098768A, March 1, 2022.  
 [5] Wang Qisong, Liu Dan, **Zhong Xiao-Cong**, et al. Gravity compensation method in the compliance control mode of multi-joint diagnostic and therapeutic robot[P]. Heilongjiang Province: CN113319855B, April 12, 2022.  
-[6] Zhang Xiaolin, Hu Yifei, **Zhong Xiao-Cong**, et al. Automatic detection device and detection method for shrinking pin of aviation electrical connector[P]. Heilongjiang Province: CN110793966B, March 4, 2022.
+[6] Zhang Xiaolin, Hu Yifei, **Zhong Xiao-Cong**, et al. Automatic detection device and detection method for shrinking pin of aviation electrical connector[P]. Heilongjiang Province: CN110793966B, March 4, 2022.  
 
