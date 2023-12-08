@@ -6,7 +6,6 @@ redirect_from:
   - /awards/
   - /awards.html
 ---
-
 [1] **Excellent Student Title**, Harbin Institute of Technology, Oct. 2023.  
 [2] **The Second Prize**, The 18th National Graduate Electronic Design Competition in China, Aug. 2023.  
 [3] **Young Excellent Paper**, China Biomedical Engineering Coference and Medical Innovation Summit, May. 2023.  
