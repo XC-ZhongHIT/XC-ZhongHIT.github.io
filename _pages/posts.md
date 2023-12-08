@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "China patents"
+title: "Chinese patents"
 permalink: /posts/
 author_profile: true
 ---
