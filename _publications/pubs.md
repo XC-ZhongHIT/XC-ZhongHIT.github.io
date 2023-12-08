@@ -8,13 +8,7 @@ redirect_from:
 ---
 
 ## Journal Articles
-
-1. Smith, J., Johnson, A. (2020). *Title of Article One*. Journal of Science, 10(2), 123-145. [PDF](link-to-pdf) [DOI](link-to-doi)
-
-2. Johnson, A., Smith, J. (2019). *Title of Article Two*. Journal of Research, 5(3), 67-89. [PDF](link-to-pdf) [DOI](link-to-doi)
+1. Zhong X C, Wang Q, Liu D, et al. A deep domain adaptation framework with correlation alignment for EEG-based motor imagery classification[J]. Computers in Biology and Medicine, 2023, 163: 107235. [PDF](_files/paper1.pdf)
+2. Zhong X C, Wang Q, Liu D, et al. EEG-DG: A Multi-Source Domain Generalization Framework for Motor Imagery EEG Classification[J]. arXiv preprint arXiv:2311.05415, 2023. [PDF](_files/paper2.pdf)
 
 ## Conference Proceedings
-
-1. Smith, J., Johnson, A. (2022). *Title of Conference Paper One*. In Proceedings of the International Conference on Science (pp. 123-145). [PDF](link-to-pdf) [DOI](link-to-doi)
-
-2. Johnson, A., Smith, J. (2021). *Title of Conference Paper Two*. In Proceedings of the Annual Conference on Research (pp. 67-89). [PDF](link-to-pdf) [DOI](link-to-doi)
