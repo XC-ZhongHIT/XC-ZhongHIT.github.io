@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-title: "Awards"
+title: "Awards and honors"
 author_profile: true
 redirect_from: 
   - /awards/
