@@ -17,4 +17,4 @@ redirect_from:
 
 [5] Wang Qisong, Liu Dan, **Zhong Xiaocong**, et al. Gravity compensation method in the compliance control mode of multi-joint diagnostic and therapeutic robot[P]. Heilongjiang Province: CN113319855B, April 12, 2022.
 
-[6] Zhang Xiaolin, Hu Yifei, **Zhong Xiaocong**, et al. Automatic detection device and detection method for shrinking pin of aviation electrical connector[P]. Heilongjiang Province: CN110793966B, March 4, 2022.
+[6] Zhang Xiaolin, Hu Yifei, **Zhong Xiaocong**, et al. Automatic detection device and detection method for shrinking pin of aviation electricals connector[P]. Heilongjiang Province: CN110793966B, March 4, 2022.
