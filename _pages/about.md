@@ -23,7 +23,7 @@ I'm a Ph.D. student from School of Instrumentation Science and Engneering, Harbi
 ---
 **Email:** zhongxiaocong@hit.edu.cn  
 **Laboratory:** Office 30035-9, Dianji Building, Harbin Institute of Technology, HIT  
-**Address:** No.92 Xidazhi Street, Nangang District, Harbin, Heilongjiang Province, 15001, China
+**Address:** No.92 Xidazhi Street, Nangang District, Harbin, Heilongjiang Province, 150001, China
 
 
 
