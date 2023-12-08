@@ -1,5 +1,6 @@
 ---
 permalink: /posts/
+title: "Chinese patents"
 author_profile: true
 redirect_from: 
   - /posts/
