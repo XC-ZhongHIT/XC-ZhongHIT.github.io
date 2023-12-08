@@ -1,7 +1,12 @@
+---
+permalink: /portfolio/
+title: "Honors and Awards"
+author_profile: true
+redirect_from: 
+  - /honors/
+  - /honors.html
+---
 
-
-# Honors and Awards
-----
 * **Excellent Student Title**, Harbin Institute of Technology, Oct. 2023.
 * **The Second Prize**, The 18th National Graduate Electronic Design Competition in China, Aug. 2023.
 * **Young Excellent Paper**, China Biomedical Engineering Coference and Medical Innovation Summit, May. 2023.
