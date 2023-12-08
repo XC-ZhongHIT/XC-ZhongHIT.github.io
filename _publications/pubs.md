@@ -12,7 +12,7 @@ author_profile: true
 
 [4] **Xiao-Cong Zhong**, Qisong Wang, Dan Liu, et al. A feature fusion method for EEG-sEMG signals based on GA-SVM. *2023 China Biomedical Engineering Conference and Medical Innovation Summit*, 2023.
 
-# Chinese Patents
+## Chinese Patents
 [1] **Zhong Xiaocong**, Wang Qisong, Liu Dan, et al. Rehabilitation training system for hand function recovery in hemiplegic patients[P]. Heilongjiang Province: CN116942467A, July 11, 2023.
 
 [2] **Zhong Xiaocong**, Wang Qisong, Liu Dan, et al. Adaptive classification method for motor imagery EEG signals with correlation alignment[P]. Heilongjiang Province: CN115640539A, January 24, 2023.
