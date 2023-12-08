@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Journals and Coferences"
 author_profile: true
 redirect_from: 
   - /pubs/
