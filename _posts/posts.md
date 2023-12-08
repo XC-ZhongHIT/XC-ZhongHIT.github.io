@@ -1,6 +1,5 @@
 ---
 permalink: /posts/
-title: "Patents"
 author_profile: true
 redirect_from: 
   - /posts/
